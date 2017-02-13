@@ -1,0 +1,9 @@
+# Modules
+bower_components
+node_modules
+
+# MacOS
+.DS_Store
+
+# Built Files
+public/
